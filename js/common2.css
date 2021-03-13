@@ -1,0 +1,5 @@
+html {
+	/*background:url(/images/lr-background-xs.jpg) no-repeat center center fixed;*/
+	background-size:cover;
+	min-height:100%;
+}
